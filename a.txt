@@ -2,6 +2,11 @@
 
 Test Text...
 Neue Datei
+<<<<<<< HEAD
 hinzugefügt
 Neue Zeile 12
 
+=======
+Gleiche Datei a.txt // gemergt
+...
+>>>>>>> 1225239 (Datei gemergt (master/topic))
